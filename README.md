@@ -35,7 +35,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🐍 Snake Animation
+### 🐍 Graph 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Chaturthi678/Chaturthi678/output/snake.svg" alt="Snake animation" />
