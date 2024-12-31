@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chaturthi678&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaturthi678&theme=radical&hide_border=false" alt="GitHub Streak" />
@@ -44,11 +44,11 @@
 </div>
 
 ---
-## 👀 Profile Views
+### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Chaturthi678&label=PROFILE+VIEWS&color=blue&style=flat-square)
 ---
 
-## 🐍 GitHub Contribution Graph:
+### 🐍 GitHub Contribution Graph:
 <div align="center">
   <img src="https://raw.githubusercontent.com/Chaturthi678/Chaturthi678/output/snake.svg" alt="Snake Animation" />
 </div>
