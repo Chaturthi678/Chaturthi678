@@ -19,7 +19,7 @@
 
 ---
 ### 🌐 Connect with Me
-<div align="left">
+<div align="center">
   <a href="mailto:science.and.technology728@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
@@ -34,7 +34,7 @@
   </a>
 </div>
 
-
+---
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -44,11 +44,7 @@
 </div>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Chaturthi678&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg
 ---
 
 ## 🐍 GitHub Contribution Graph:
