@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Chaturthi678&label=Profile%20Views&pretty=true" alt="Profile Visit Counter" />
+  <img src="https://visitcount.itsvg.in/api?id=Chaturthi678&label=Profile%20Views&color=12&icon=2&pretty=true" alt="Profile Visit Counter" />
 </div>
 
 ---
