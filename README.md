@@ -18,6 +18,23 @@
 </div>
 
 ---
+### 🌐 Connect with Me
+<div align="left">
+  <a href="mailto:science.and.technology728@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/chaturthi-gavande-9188b22b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/science_and_tec1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank" />
+  </a>
+  <a href="https://x.com/ChaturthiG52702" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
+  </a>
+</div>
+
+
 
 ## 📊 GitHub Stats:
 <div align="center">
