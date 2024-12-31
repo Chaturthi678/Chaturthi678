@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! I'm Chaturthi Gavande </h2>
 
+![Cute Bunny GIF](https://media3.giphy.com/media/kBa3lyXcK5pcOJDUkW/giphy.gif?cid=6c09b952l2tfigx4m7qhmoiq0rh8lbp1xg77y7igexi1or39&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+
 ## 💫 About Me:
 -💻 I’m passionate about coding and development.<br>-🌱 Currently learning Python and C++ to excel in full-stack development.<br>-⚡ Fun fact: I’ve completed a 365-day streak on Duolingo while learning German!
 
