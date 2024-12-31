@@ -44,7 +44,8 @@
 </div>
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Chaturthi678&label=PROFILE+VIEWS&color=blue&style=flat-square)
 ---
 
 ## 🐍 GitHub Contribution Graph:
