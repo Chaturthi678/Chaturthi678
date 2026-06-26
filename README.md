@@ -10,15 +10,10 @@
   <i>"Writing elegant algorithms, exploring cloud realms, and designing premium systems."</i>
 </p>
 
-<br/>
+---
+
 
 <div align="center">
-
-<!-- Centered Profile Photo (Default: your GitHub avatar. Swap link to change it!) -->
-<p align="center">
-  <img src="https://images.weserv.nl/?url=https://github.com/Chaturthi678.png&w=220&h=220&mask=circle&output=png" width="220" height="220" alt="Profile Picture" />
-</p>
-<br/><br/>
 
 ### 🔮 ABOUT ME
 
