@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=4000&pause=1000&color=d8b4fe&center=true&vCenter=true&width=600&height=50&lines=LOAD_SYSTEM_ADVENTURE...;HI%2C+I'M+CHATURTHI!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=d8b4fe&center=true&vCenter=true&width=600&height=50&lines=LOAD_SYSTEM_ADVENTURE...;HI%2C+I'M+CHATURTHI!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,16 +15,17 @@
 <div align="center">
 
 <!-- Centered Profile Photo (Default: your GitHub avatar. Swap link to change it!) -->
-<img src="https://github.com/Chaturthi678.png" width="150" style="border-radius: 50%; border: 3px solid #d8b4fe;" alt="Profile Picture" />
-
+<p align="center">
+  <img src="https://images.weserv.nl/?url=https://github.com/Chaturthi678.png&w=220&h=220&mask=circle&output=png" width="220" height="220" alt="Profile Picture" />
+</p>
 <br/><br/>
 
 ### 🔮 ABOUT ME
 
-🎓 **Engineering Student & Aspiring Full-Stack Developer**  
-💻 Passionate about Web Development, Python, and System Design  
-🚀 Building projects, solving problems, and learning every day  
-🌱 Currently exploring Cloud Computing and Machine Learning  
+• **Engineering Student & Aspiring Full-Stack Developer**  
+• Passionate about Web Development, Python, and System Design  
+• Building projects, solving problems, and learning every day  
+• Exploring Cloud Computing and Machine Learning 
 
 </div>
 
