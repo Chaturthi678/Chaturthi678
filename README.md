@@ -15,7 +15,7 @@
 
 <div align="center">
 
-### 🔮 ABOUT ME
+### ⤿ ABOUT ME
 
 • **Engineering Student & Aspiring Full-Stack Developer**  
 • Passionate about Web Development, Python, and System Design  
@@ -26,7 +26,7 @@
 
 ---
 
-### 🎒 INVENTORY (TECH STACK)
+###  </> INVENTORY (TECH STACK)
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-581c87?style=flat-square&logo=c&logoColor=white" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 PLAYER STATISTICS
+### 🗒 PLAYER STATISTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chaturthi678&show_icons=true&bg_color=090514&title_color=c084fc&text_color=e2e8f0&icon_color=9333ea&hide_border=true" alt="GitHub Stats" style="margin: 10px;" />
@@ -49,7 +49,7 @@
 
 ---
 
-### 💾 SAVE GAME (CONNECT WITH ME)
+### › SAVE GAME (CONNECT WITH ME)
 
 <div align="center">
   <a href="mailto:science.and.technology728@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=581c87&logoColor=white&style=flat-square" height="30" alt="Gmail" style="margin: 5px;" /></a><a href="https://www.linkedin.com/in/chaturthi-gavande-9188b22b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7e22ce&logoColor=white&style=flat-square" height="30" alt="LinkedIn" style="margin: 5px;" /></a><a href="https://www.hackerrank.com/profile/science_and_tec1" target="_blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=9333ea&logoColor=white&style=flat-square" height="30" alt="HackerRank" style="margin: 5px;" /></a><a href="https://x.com/ChaturthiG52702" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=a855f7&logoColor=white&style=flat-square" height="30" alt="Twitter" style="margin: 5px;" /></a>
